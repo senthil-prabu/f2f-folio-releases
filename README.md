@@ -9,26 +9,23 @@ by [Fire2Freedom](https://fire2freedom.com)
 
 ## ⬇️ Download
 
-👉 **[Download latest release →](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest)**
-
-| Platform | Launcher |
+| Platform | Where to get it |
 |---|---|
-| Windows | `F2F-Folio.exe` |
-| macOS (Apple Silicon M1/M2/M3) | `start-mac-apple.command` |
-| macOS (Intel) | `start-mac-intel.command` |
-| Linux | `F2F-Folio-linux` |
+| Windows 10/11 | [Microsoft Store](https://apps.microsoft.com/detail/9NT6QKS56591) |
+| macOS 13.5+ (Intel & Apple Silicon) | `F2F-Folio-mac.dmg` from the [latest release](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest), or the Mac App Store (free edition, once live) |
+
+The macOS app is signed with an Apple Developer ID and **notarized by Apple**. Verify your download against `SHA256SUMS` on the release page.
 
 ---
 
-## 🚀 Getting started
+## 🚀 Getting started (macOS)
 
-1. Download `f2f-folio.zip` from [Releases](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest)
-2. Unzip to any folder
-3. Double-click the launcher for your platform
-4. App opens in your browser at `http://localhost:3010`
-5. Start a **7-day free trial** or enter your license key
+1. Download `F2F-Folio-mac.dmg` from [Releases](https://github.com/senthil-prabu/f2f-folio-releases/releases/latest)
+2. Open the DMG and drag **F2F-Folio** to Applications
+3. Open it. On first launch macOS shows its usual "downloaded from the internet" prompt; choose **Open**
+4. Start the **7-day free trial**, or enter your licence key
 
-> No installation. No internet required after download. Your data never leaves your computer.
+> Your data stays on your Mac. No account needed.
 
 ---
 
@@ -55,15 +52,14 @@ by [Fire2Freedom](https://fire2freedom.com)
 
 ## ✅ Requirements
 
-- Chrome 113+, Firefox 129+, Safari 17+, or Edge 113+
-- Windows 10+, macOS 12+, or Linux (Ubuntu 20.04+)
-- No other software required
+- macOS 13.5 (Ventura) or later, Intel or Apple Silicon
+- Windows 10/11 (via the Microsoft Store)
 
 ---
 
 ## 🔑 License
 
-Free 7-day trial included. Purchase a license at [fire2freedom.com](https://fire2freedom.com).
+The direct macOS download includes a 7-day free trial; a one-time licence key from [fire2freedom.com](https://fire2freedom.com) then unlocks everything.
 
 ---
 
