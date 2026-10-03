@@ -32,7 +32,7 @@ The macOS app is signed with an Apple Developer ID and **notarized by Apple**. V
 ## ✨ Features
 
 - **15 tabs** — Overview, Features, Holdings, Charts, Transactions, Journey, Dividends, Performance, Rebalance, Benchmark, Watchlist, Goals, Notes, Tax, Fees & Charges
-- **Free forever, Pro when you want it** — core tracking and unlimited CSV/PDF import stay free; a 7-day trial gives you everything, then a one-time Pro licence unlocks Tax, Performance, Rebalance, Goals, family portfolios and broker auto-sync
+- **Free forever, Pro when you want it** — core tracking and unlimited file import stay free; a 7-day trial gives you everything, then a one-time Pro licence unlocks Tax, Performance, Rebalance, Goals, family portfolios and broker auto-sync
 - **12 brokers plus guided CSV mapping** — IBKR, Nordnet, eToro, Zerodha, Groww, DEGIRO, Trading 212, Avanza, Trade Republic, Coinbase, Equalplus/Computershare and CAS (India demat/mutual-fund statements); any other broker's CSV imports through a column-mapping step, and manual entry covers assets with no export
 - **IBKR and Trading 212 auto-sync (Pro)** — no CSV download; IBKR Flex Query and the Trading 212 Public API
 - **Finnish tax worksheet (Pro)** — Form 9A capital-gains worksheet for OmaVero, FIFO lot-matching where brokers don't report realised gains
